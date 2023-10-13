@@ -1,9 +1,10 @@
 
 
-class Smok:
-    def __init__(self, nazwa):
-        self.nazwa = nazwa
+class Dragon:
+    def __init__(self, name):
+        self.name = name
 
 
-wawelski = Smok("Wawelski")
+wawelski = Dragon("Wawelski")
 print(wawelski)
+
